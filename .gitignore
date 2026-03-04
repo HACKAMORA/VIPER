@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+deepscan-backend/
+node_modules/
+.vite/
